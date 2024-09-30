@@ -98,7 +98,7 @@
     "@types/react": "^18.2.39",
     "@types/react-helmet": "^6.1.5",
     "@vitejs/plugin-react": "^4.2.1",
-    "auto-changelog": "~2.3.0",
+    "auto-changelog": "~2.5.0",
     "browserslist-to-esbuild": "^1.2.0",
     "eslint": "^8.54.0",
     "eslint-config-prettier": "^8.3.0",
